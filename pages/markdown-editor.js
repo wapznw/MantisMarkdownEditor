@@ -3,7 +3,8 @@ $(function () {
         'td.bugnote-note',
         'td.bug-description',
         'td.bug-steps-to-reproduce',
-        'td.bug-additional-information'
+        'td.bug-additional-information',
+	'td[colspan="3"]'
     ];
 
     var editors = [
